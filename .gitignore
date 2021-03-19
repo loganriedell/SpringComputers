@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+#Database Connection
+*application.properties
+
 # Log file
 *.log
 
